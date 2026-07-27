@@ -29,6 +29,8 @@ The trained model achieves good accuracy and effectively classifies patients int
 This project demonstrates how machine learning and data analysis can assist in early detection of heart disease and support preventive healthcare decisions.
 
 ## Author
-Kartik Sahani      
+Kartik Sahani
+Devarsh Mangroliya
+Lalitkumar Sharma
 Computer Engineering Student     
 Python for Data Science Project  
